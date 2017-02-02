@@ -2,6 +2,6 @@
 >
 | Name     | Email   | Github Username |
 |----------|---------|-----------------|
-| Name 1   | Email.One | username_one  |
-| Name 2   | Email.Two | username_two  |
-| Name 3   | Email.Three | username_three |
+| Thirupathi Reddy Parshuramgari | thirupathi.idks126@gmail.com |  thirupathireddy-parshuramgari |
+| Saikiran Reddy Nagulapally  | saikiranreddy791@outlook.com | saikiranreddy-nagulapally |
+| Ajay Dinakar Kandavalli | ajaydinakar6@gmail.com| ajaydinakar |
